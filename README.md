@@ -1,3 +1,1 @@
-# Nisha
-This is my first repositary
-this is my first commit
+hii i am nisha.
